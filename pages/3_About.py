@@ -220,15 +220,12 @@ st.markdown(
             The system is built on a modern open-source Python stack:
         </div>
         <div class="tech-grid">
-            <div class="tech-pill">🐍 Python 3.13</div>
+            <div class="tech-pill">🐍 Python</div>
+            <div class="tech-pill">🐼 Pandas</div>
+            <div class="tech-pill">🔬 Scikit-learn</div>
+            <div class="tech-pill">📓 Google Colab</div>
+            <div class="tech-pill">🐙 GitHub</div>
             <div class="tech-pill">⚡ Streamlit</div>
-            <div class="tech-pill">🌳 XGBoost</div>
-            <div class="tech-pill">💡 LightGBM</div>
-            <div class="tech-pill">🔬 scikit-learn</div>
-            <div class="tech-pill">📊 SHAP</div>
-            <div class="tech-pill">🐼 pandas</div>
-            <div class="tech-pill">🔢 NumPy</div>
-            <div class="tech-pill">📈 matplotlib</div>
         </div>
     </div>
     """,
