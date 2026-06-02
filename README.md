@@ -1,4 +1,4 @@
-# MLLDP — Machine Learning Loan Default Predictor
+# MLLDP Machine Learning Loan Default Predictor
 
 An end-to-end machine learning system that predicts whether a loan application will Default or Not Default, and explains every prediction it makes.
 
