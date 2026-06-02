@@ -181,12 +181,6 @@ st.markdown(
         <div class="team-card">
             <div class="team-name">Saad Almugrin</div>
         </div>
-        <div class="supervisor-card">
-            <div class="team-name">Supervised by Dr. Mostafa Ibrahim</div>
-            <div style="color: #92400E; font-size: 0.9rem; margin-top: 0.2rem;">
-                Project Supervisor
-            </div>
-        </div>
     </div>
     """,
     unsafe_allow_html=True,
