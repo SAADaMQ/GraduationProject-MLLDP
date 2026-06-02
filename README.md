@@ -38,7 +38,7 @@ The complete machine learning pipeline lives in the notebook folder. It covers d
 
 ## Team
 
-This project was developed by Group M14 at the College of Computer and Information Sciences, Imam Mohammad Ibn Saud Islamic University. The team members are Thamer Ahmed Alshamrani, ID 444001747, and Saad Abdurahman Almugrin, ID 443014496. The project was supervised by Dr. Mostafa Ibrahim.
+This project was developed by Group M14 at the College of Computer and Information Sciences, Imam Mohammad Ibn Saud Islamic University. The team members are  Saad Almugrin and Thamer Alshamrani. 
 
 ## Notes
 
