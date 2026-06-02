@@ -176,12 +176,10 @@ st.markdown(
     <div class="section-card">
         <div class="section-heading">👥 Team</div>
         <div class="team-card">
-            <div class="team-name">Thamer Ahmed Alshamrani</div>
-            <div class="team-id">ID: 444001747</div>
+            <div class="team-name">Thamer Alshamrani</div>
         </div>
         <div class="team-card">
-            <div class="team-name">Saad Abdurahman Almugrin</div>
-            <div class="team-id">ID: 443014496</div>
+            <div class="team-name">Saad Almugrin</div>
         </div>
         <div class="supervisor-card">
             <div class="team-name">Supervised by Dr. Mostafa Ibrahim</div>
